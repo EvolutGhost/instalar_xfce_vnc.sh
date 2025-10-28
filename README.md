@@ -1,0 +1,1 @@
+# instalar_xfce_vnc.sh
